@@ -1,0 +1,14 @@
+{
+  "name": "02-rxjs-flatten-a-higher-order-observable-with-rxjs-switch",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel index.html --open"  
+  },
+  "dependencies": {
+    "rxjs": "^6.4.0"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3"
+  }
+}
