@@ -1,0 +1,18 @@
+{
+  "name": "higher-order-observables",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:eggheadio-projects/higher-order-observables.git",
+  "author": "Cree <cree@provinsal.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "lessons/*"
+  ],
+  "scripts": {
+    "start": "echo 'hello'"
+  },
+  "devDependencies": {
+    "prettier": "^1.16.4"
+  }
+}
